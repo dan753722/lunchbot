@@ -1,0 +1,15 @@
+{
+  "name": "lunchbot",
+  "version": "1.0.0",
+  "description": "This slack bot suggests lunch!",
+  "main": "lunchbot.js",
+  "dependencies": {
+    "botkit": "^0.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Sun",
+  "license": "MIT"
+}
