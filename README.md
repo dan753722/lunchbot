@@ -1,2 +1,2 @@
 # lunchbot
-This is empty, too busy thinkging about what to eat for lunch.
+This is empty, too busy thinking about what to eat for lunch.
