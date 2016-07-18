@@ -15,3 +15,7 @@ controller.spawn({
 controller.hears("suggest lunch", botScope, messageBank.hanaichi);
 
 controller.hears("[Dd]an", botScope, messageBank.danTheMan);
+
+controller.hears("come back up", botScope, messageBank.yesSir);
+
+controller.hears("shut up", botScope, messageBank.youShutUp);
